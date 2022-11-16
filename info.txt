@@ -1,8 +1,11 @@
 Hello world!!
 
+<<<<<<< HEAD
 this is for repo A
 
 Allow this cotent.
+
+>>>>>>> ca38dab (commit for repo B)
 
 
 
